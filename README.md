@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on a [Daily Habits Tracker](https://github.com/KEEGANTE/Daily_Habits_Tracker)
 
-- 🌱 I’m currently learning **React, Next.Js, Flutter,Django**
+- 🌱 I’m currently learning **Flutter and Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Web/Mobile Applications**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Cybersecurity**
 
 - ⚡ Fun fact **I am an interesting person.**
 
