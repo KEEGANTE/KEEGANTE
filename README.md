@@ -1,4 +1,5 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/4ab01855-178f-48f5-a328-f5ff622d718d">
+<img width="1834" height="938" alt="README" src="https://github.com/user-attachments/assets/5c950956-13e9-41ff-ae01-86989a5e7d63" />
+
 
 <h1 align="center">Hi 👋, I'm Keegan Mboya</h1>
 <h3 align="center">A passionate mobile apps developer from Kenya 🇰🇪</h3>
